@@ -8,7 +8,8 @@ This is a modified version of the templates of the Clean-Swift.
 - presenter has access to router
 - Event/Data is passed as described on the following diagram 
                            
-                           router \
+                           router 
+                                  \
                  viewController --  interactor -- presenter -- view controller 
                                                            \ 
                                                              router
