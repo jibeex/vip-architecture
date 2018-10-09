@@ -10,7 +10,7 @@ This is a modified version of the templates of the Clean-Swift.
                            
                            router 
                                   \
-                 viewController --  interactor -- presenter -- view controller 
+                 view controller --  interactor -- presenter -- view controller 
                                                            \ 
                                                              router
                                                              
